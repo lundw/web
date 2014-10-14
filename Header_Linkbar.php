@@ -19,6 +19,7 @@
 				<li class="dropdown">
 				  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Information <span class="caret"></span></a>
 				  <ul class="dropdown-menu" role="menu">
+					<!--Need to add the linked files Contact_Us.php and About_Us.php to the website-->
 					<li><a href="#Contact_Us.php">Contact Us</a></li>
 					<li><a href="#About_Us.php">About Us</a></li>
 					<li class="divider"></li>
