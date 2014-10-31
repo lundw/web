@@ -2,4 +2,4 @@
 
  include "connect.php";
 
- echo("Hello database connection!")
+ echo("Hello database connection!");
